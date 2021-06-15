@@ -1,0 +1,14 @@
+{
+    "name": "dollaraudit/href-seo",
+    "description": "Open Source (MIT License) SEO Scanner",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naresh Chandranatha",
+            "email": "nchandranatha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
